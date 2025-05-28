@@ -1,4 +1,4 @@
 <!---
-ShubhamVishvakarma134/ShubhamVishvakarma134 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+VerifiedDB.co/VerifiedDB.co is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
